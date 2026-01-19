@@ -23,7 +23,6 @@
     "ogl": "^1.0.11",
     "posthog-js": "^1.298.1",
     "posthog-node": "^5.14.0",
-    "q": "^1.5.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-hook-form": "^7.71.1",

@@ -3,7 +3,7 @@ import {Button} from "@/components/ui/button";
 import CompanionCard from "@/components/CompanionCard";
 import CompanionsList from "@/components/CompanionsList";
 import Cta from "@/components/CTA";
-import {subjects} from "@/constants/index";
+import {subjects} from "@/constants/index"; 
 import {recentSessions} from "@/constants/index";
 
 const Page = () => {
